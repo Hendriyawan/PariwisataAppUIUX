@@ -1,0 +1,78 @@
+{
+	"pariwisata" : [ {
+		"nama" : "Pantai Banyu Tibo",
+		"foto" : "pantai_banyu_tibo_1.jpg,pantai_banyu_tibo_2.jpg,pantai_banyu_tibo_1.jpg",
+		"deskripsi" : "Pantai Banyu Tibo, Pantai yang memiliki arti air jatuh ini terletak di Desa Widoro, kecamatan Donorejo. Pantai yang satu ini terkenal unik lantaran adanya air tawar tumpah dari air terjun mungil yang berada di bibir pantai dan bertemu dengan air laut dari samudera hindia."
+	},
+	{
+		"nama" : "Pantai Sirau",
+		"foto" : "pantai_srau_1.jpg,pantai_srau_2.jpg,pantai_srau_1.jpg",
+		"deskripsi" : "Pantai Srau adalah pantai yang lumayan sepi pengunjung bila dibanding Pantai Klayar atau Pantai Teleng Ria. Tapi bukan berarti panorama alam yang disuguhkan biasa saja. Pantai yang terletak di Dusun Srau Desa Candi Kecamatan Pringkuku, Pantai ini letaknya tidak jauh dari pos tiket. Ombaknya besar dan warna laut masih biru laut serta pasir putih yang bersih. Di tengah laut menonjol beberapa bukit karang yang terlihat hidup ketika diterpa ombak yang besar"
+	},
+	{
+		"nama" : "Pantai Klayar",
+		"foto" : "pantai_klayar_1.jpg,pantai_klayar_2.jpg,pantai_klayar_1.jpg",
+		"deskripsi" : "Pantai yang terletak di Desa Sendang, Kecamatan Donorojo dan belum disentuh oleh banyak modernisasi, memiliki daya pikat ombak pantai yang tinggi dan gemar dipakai sebagai area surfing turis mancanegara."
+	},
+	{
+		"nama" : "Pantai Telengria",
+		"foto" : "pantai_talengria_1.jpg,pantai_talengria_2.jpg,pantai_talengria_1.jpg",
+		"deskripsi" : "Wisata keindahan pantai yang indah akan tersaji di Pantai Teleng yaitu pasir putih dan ombak pantai yang tenang, membuat pantai ini selalu ramai akan pengunjung, terutama keluarga yang menghabisakan liburanya.Di tempat ini anda bisa bermain dan juga berenang. Atau hanya duduk-duduk di bibir pantai sembari menikmati panorama pantai yang indah. Dengan ketenangan ombak serta hembusan angin pantai menjadikan suasana menyejukkan."
+	},
+	{
+		"nama" : "Goa Gong",
+		"foto" : "goa_gong_1.jpg,goa_gong_2.jpg,goa_gong_1.jpg",
+		"deskripsi" : "Terletak di Pule, Desa Bomo, Kecamatan Punung, sekitar 30 menit dari Kota Pacitan yang berjarak 37 km. Goa Gong ini dikelilingi oleh empat gunung tidak aktif, dengan bagian utara Gunung Manyar, bagian selatan Gunung Karang Pulut, bagian barat Gunung Grugah dan bagian timur Gunung Gede, asal muasal Goa Gong yang memiliki kedalaman 256 meter ini adalah akibat dari aktifitas gerakan termik dan vulkanik gunung aktif yang berlangsung ratusan tahun lalu."
+	},
+	{
+		"nama" : "Pantai Soge",
+		"foto" : "pantai_soge_1.jpg,pantai_soge_2.jpg,pantai_soge_1.jpg",
+		"deskripsi" : "Yang menjadi daya pikat utama pantai ini adalah karena letaknya berbatasan langsung dengan tepi jalan raya tepatnya jalur lintas selatan, sehingga banyak orang yang melintas bisa langsung parkir dan menyusuri jalan turunan bebatuan sebelum akhirnya tiba di hempasan pasir putih sepanjang garis pantai, Pantai yang terletak di Desa Sidomulyo Kecamatan Ngadirojo ini memiliki daya pikat lain yang sangat menarik dan tidak bisa ditemukan di pantai - pantai lain yakni munculnya danau kecil yang terbentuk ketika air laut mengalami surut dan letaknya hanya dipisahkan oleh gundukan pasir putih di tengah."
+	},
+	{
+		"nama" : "Pemandian Banyu Anget",
+		"foto" : "pemandian_banyu_anget_1.jpg,pemandian_banyu_anget_2.jpg,pemandian_banyu_anget_1.jpg",
+		"deskripsi" : "Pemandian Banyu Anget Tirto Husodo ini menjadi magnet wisata selanjutnya. Air kolam renang yang sepenuhnya berasal dari sumber mata air hangat tanpa pengolahan dan tidak mengeluarkan bau belerang ini selalu ramai dikunjungi oleh wisatawan setiap harinya.|Desa Karangrejo, Kecamatan Arjosari dengan jarak kurang lebih 15 km dari Kota Pacitan."
+	},
+	{
+		"nama" : "Pacitan Indah",
+		"foto" : "pacitan_indah_1.jpg,pacitan_indah_2.jpg,pacitan_indah_1.jpg",
+		"deskripsi" : "Wisata Pacitan Indah ini berada di Desa Dadapan, Kecamatan Pringkuku, Kabupaten Pacitan. Berjarak kurang lebih 15 Km dari pusat kota. Perbukitan Pacitan Indah kita dapat menyaksikan keindahan kota Pacitan dari atas yang dipadu dengan keelokan teluk dan Gunung Lima yang berdiri kokoh. Agar dapat melihat pemandangan tersebut dengan lebih jelas, pengunjung dapat pergi ke sebuah gardu pandang yang dapat membantu pengunjung menikmati pemandangan."
+	},
+	{
+		"nama" : "Pantai Buyutan",
+		"foto" : "pantai_buyutan_1.jpg,pantai_buyutan_2.jpg,pantai_buyutan_1.jpg",
+		"deskripsi" : "Salah satu pantai yang sangat elok dan menjadi salah satu obyek wisata unggulan di Pacitan adalah Pantai Buyutan. Pantai yang terletak di Desa Widoro, Kecamatan Donorojo ini memiliki kekhasan tersendiri, yakni watu narada. Watu narada menjadi daya tarik utama Pantai Buyutan, yang bentuknya adalah batuan karang mirip tokoh pewayangan Batara Narada (baca: Narodo). Berdasarkan sejarahnya, pantai Buyutan terbentuk karena pengangkatan aktif di sepanjang pantai yang menghasilkan morfologi undak pantai setinggi puluhan meter."
+	},
+	{
+		"nama" : "Monumen Jenderal Sudirman",
+		"foto" : "monumen_jenderal_sudirman_1.jpg,monumen_jenderal_sudirman_2.jpg,monumen_jenderal_sudirman_1.jpg",
+		"deskripsi" : "Monumen yang menjadi wisata sejarah ini terletak di Sobo, Pakisbaru, 34 km dari Kota Pacitan. Monumen yang dibangun untuk mengenang gigihnya perjuangan Jenderal Soedirman ini tak pernah sepi dari serbuan pengunjung. Terlihat dari penuhnya arena komplek monumen ketika musim berlibur tiba."
+	}, 
+	{
+		"nama" : "Sungai Maron",
+		"foto" : "sungai_maron_1.jpg,sungai_maron_2.jpg,sungai_maron_1.jpg",
+		"deskripsi" : "Sungai ini menawarkan pemandangan alam seperti di Green Canyon Amerika. Berada di Ddesa Dersono, Kecamatan Pringkulu.Di wisata ini anda bisa menyusuri sungai yang indah dan melihat pemandangan yang indah di sekitar sungai dengan menaiki perahu dan sungai ini menjadi sumber pengairan warga dan habitat ikan-ikan yang di manfaatkan dengan baik oleh warga Desa sekitar. Sungai maron ini setiap tahunnya juga digunakan sebagai tempat lomba."
+	},
+	{
+		"nama" : "Pantai Watukarung",
+		"foto" : "pantai_watukarung_1.jpg,pantai_watukarung_2.jpg,pantai_watukarung_1.jpg",
+		"deskripsi" : "Pantai Watu Karung yang merupakan salah satu dari lima ombak terbaik dunia ini terletak di Pacitan. Pantai di Pacitan yang merupakan surga bagi Surfer karena Ombaknya mempunyai ombak yang besar dan spesial sehingga menantang.Terletak di Desa Widoro,Kec Donorejo, daerah terpencil dan tersembunyi membuat akses jalan menuju tempat liburan di Pacitan ini cukup sulit."
+	},
+	{
+		"nama" : "Pantai Pidakan",
+		"foto" : "pantai_pidakan_1.jpg,pantai_pidakan_2.jpg,pantai_pidakan_1.jpg",
+		"deskripsi" : "Pantai Eksotis yang harus anda kunjungi selanjutnya yaitu pantai Pidakan. Pantai unik dan berbeda dengan pantai-pantai yang lain di Pacitan memiliki bibir pantai berupa batuan Kerikil. Pantai ini berada di Desa Jetak,Kec Tulakan. Tepatnya di Desa Godek Kulon. Berjarak sekitar 50 Km dari pusat kota Pacitan. Anda bisa mengunjungi tempat wisata alam Pacitan ini dengan melewati Jalur Lintas Selatan. Pantai ini berada di pinggiran Jalan JLS, sekitar 2 Km dari jalan ini."
+	},
+	{
+		"nama" : "Pantai Kasap",
+		"foto" : "pantai_kasap_1.jpg,pantai_kasap_2.jpg,pantai_kasap_1.jpg",
+		"deskripsi" : "Pantai Kasap ini memang obyek wisata Pantai yang masih sangat alami. Pantai Kasap berada di dekat tiga pantai lainnya di kecamatan ini, yakni pantai Watukarung. Terletak di Desa Watukarung, Kecamatan Pringkuku, pantai yang berada di sebelah persis pantai Sruni ini memiliki karakteristik khas di pantai Selatan. Yakni karang, kemudian pasir putih, ombak yang deras. Pantai Kasap ini juga berpasir putih, walau garis pantainya sendiri cukup sempit berbentuk teluk berpasir melengkung dan di apit tebing sisi kiri dan kananya."
+	},
+	{
+		"nama" : "Pantai Ngiriboyo",
+		"foto" : "pantai_ngiriboyo_1.jpg,pantai_ngiriboyo_2.jpg,pantai_ngiriboyo_1.jpg",
+		"deskripsi" : "Pantai yang terletak di Dusun Sambi, Sendang, Donorojo ini menawarkan sejuta pesona keindahan khas Pantai selatan. Selain batu karang yang Nampak terlihat perkasa, ombak besar pantai selatan juga menjadi salah satu yang membuat pantai ini menarik untuk di kunjungi. Selain itu, pesona keindahan yang tak boleh anda lewatkan lainnya adalah adanya muara sungai Maron yang berujung di Pantai Ngiroboyo ini. Sungai Maron dikenal warga sebagai tempat penyelenggaraan event tahunan festival dayung ngiroboyo. Di tempat inilah ratusan pedayung hebat saling beradu keahlian untuk menjadi juara festival dayung Ngiroboyo."
+	}
+	]
+}

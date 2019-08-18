@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="1dp"
+    app:cardPreventCornerOverlap="false">
+
+    <com.joooonho.SelectableRoundedImageView
+        android:id="@+id/foto_wisata"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:contentDescription="@null"
+        android:scaleType="fitXY"
+        app:sriv_left_bottom_corner_radius="12dp"
+        app:sriv_left_top_corner_radius="12dp"
+        app:sriv_right_bottom_corner_radius="12dp"
+        app:sriv_right_top_corner_radius="12dp"
+        tools:src="@drawable/ic_launcher_background" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.1"
+        android:background="@android:color/white" />
+
+</androidx.cardview.widget.CardView>

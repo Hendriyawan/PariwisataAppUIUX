@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pariwisata</string>
+    <string name="about">About</string>
+    <string name="text_item_wisata_address">Jawa Timur</string>
+    <string name="text_name">HENDRIYAWAN</string>
+    <string name="text_my_email">hendrijs44@gmail.com</string>
+    <string name="text_my_phone">+62 895397938533</string>
+    <string name="text_my_github_account">https://github.com/Hendriyawan</string>
+</resources>
