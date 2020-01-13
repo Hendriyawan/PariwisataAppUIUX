@@ -1,11 +1,12 @@
 package com.hdev.pariwisata.view;
 
+import android.graphics.drawable.Drawable;
+import android.graphics.drawable.LayerDrawable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -67,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
 
     private WisataAdapter wisataAdapter;
     private BottomSheetBehavior bottomSheetBehavior;
+    private CardSliderLayoutManager cardSliderLayoutManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -145,10 +147,11 @@ public class MainActivity extends AppCompatActivity {
 
     //Init RecyclerView foto
     private void initRecyclerViewFoto(String[] files) {
+        cardSliderLayoutManager = new CardSliderLayoutManager(this);
+        recyclerViewFoto.setLayoutManager(cardSliderLayoutManager);
         FotoWisataAdapter fotoWisataAdapter = new FotoWisataAdapter(this);
         fotoWisataAdapter.setFotos(files);
         recyclerViewFoto.setAdapter(fotoWisataAdapter);
-        recyclerViewFoto.setLayoutManager(new CardSliderLayoutManager(this));
         //new CardSnapHelper().attachToRecyclerView(recyclerViewFoto);
     }
 

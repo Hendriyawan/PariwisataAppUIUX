@@ -5,7 +5,7 @@
     android:id="@+id/bottom_sheet_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg_content_bottom_sheet"
+    android:background="@drawable/bg_content_bottom_sheet_gradient"
     android:clickable="false"
     android:elevation="@dimen/design_appbar_elevation"
     android:fitsSystemWindows="true"
@@ -16,7 +16,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
         android:orientation="horizontal">
 
         <ImageView
@@ -25,7 +25,7 @@
             android:layout_height="30dp"
             android:layout_alignParentEnd="true"
             android:layout_centerInParent="true"
-            android:layout_marginEnd="@dimen/activity_horizontal_margin"
+            android:layout_marginEnd="8dp"
             android:background="@drawable/bg_button_close_bottom_sheet"
             android:contentDescription="@null"
             android:src="@drawable/ic_close"
